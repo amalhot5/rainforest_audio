@@ -1,3 +1,8 @@
+# kaggle data files
+*.zip
+rfcx-species-audio-detection/
+
+# After this is part of template
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
